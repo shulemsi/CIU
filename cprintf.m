@@ -1,5 +1,5 @@
-Copyright (c) 2015, Yair Altman
-All rights reserved.
+%Copyright (c) 2015, Yair Altman
+%All rights reserved.
 
 function count = cprintf(style,format,varargin)
 % CPRINTF displays styled formatted text in the Command Window
